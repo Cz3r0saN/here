@@ -1,0 +1,50 @@
+https://www.kaggle.com/code/proxzima/uber-fare-price-prediction/notebook
+assingment 7
+title : Predict the price of the Uber ride from a given pickup point to the
+agreed drop-off location. Perform following tasks:
+
+
+
+
+
+
+
+https://www.kaggle.com/code/mfaisalqureshi/email-spam-detection-98-accuracy/notebook
+assingment 8
+title : Classify the email using the binary classification method. Email
+Spam detection has two states:
+
+
+
+
+
+
+
+
+https://www.kaggle.com/code/jaysadguru00/starter-bank-customer-churn-modeling-6dbfe05e-a
+assingment 9 
+title : Given a bank customer, build a neural network-based classifier
+that can determine whether they will leave or not in the next 6 months
+
+
+
+
+
+
+
+https://www.kaggle.com/code/shrutimechlearn/step-by-step-diabetes-classification-knn-detailed
+assingment 10
+title :  Implement K-Nearest Neighbors algorithm on diabetes.csv dataset.
+Compute confusion matrix, accuracy, error rate, precision and recall on the given dataset.
+
+
+
+
+
+
+
+
+https://github.com/abhinavsagar/kaggle-notebooks/blob/master/customer_segmentation.ipynb
+assingment 11
+title :  Implement K-Means clustering/ hierarchical clustering on
+sales_data_sample.csv dataset. Determine the number of clusters using the elbow method
